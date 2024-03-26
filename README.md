@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 - 🌱 I’m currently learning **React Native**
-- - 📫 How to reach me **ozge.dirik.38@hotmail.com**
+-  📫 How to reach me **ozge.dirik.38@hotmail.com**
  
 
 ## 📌 GitHub Stats And Top Languages

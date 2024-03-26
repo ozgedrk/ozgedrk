@@ -1,5 +1,11 @@
 ### Hello Everyone!!!! 👋
 
+<h1 align="center">Hi 👋, I'm Ozge Dirik</h1>
+<h3 align="center">A passionate Jr.Computer Engineer from Turkey</h3>
+
+- 🔭 I’m currently working on **Software Development**
+- 🌱 I’m currently learning **React Native**
+- 
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">

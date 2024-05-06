@@ -1,6 +1,6 @@
 ### Hello Everyone!!!! 👋
 
-<h1 align="center">Hi 👋, I'm Ozge Dirik</h1>
+<h1 align="center">👋, I'm Ozge Dirik</h1>
 <h3 align="center">A passionate Jr.Computer Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Software Development**

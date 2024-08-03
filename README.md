@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Jr.Computer Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Software Development**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python and Data Science**
 -  📫 How to reach me **ozge.dirik.38@hotmail.com**
  
 

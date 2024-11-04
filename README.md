@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python and Data Science**
   
 ## 📫 How to Reach Me and learn about my experiences 
- **ozge.dirik.38@hotmail.com**
+-  📫 **ozge.dirik.38@hotmail.com**
  
 [![Linkedin Badge](https://img.shields.io/badge/ozgedirik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ozgedirik/)
 

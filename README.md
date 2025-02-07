@@ -1,7 +1,7 @@
 ### Hello Everyone!!!! 👋
 
 <h1 align="center">👋, I'm Ozge Dirik</h1>
-<h3 align="center">A passionate Jr.Computer Engineer from Turkey</h3>
+<h3 align="center">A passionate Software and Application Development Assistant Specialist from Turkey</h3>
 
 - 🔭 I’m currently working on **Software Development**
 - 🌱 I’m currently learning **Python, Data Science and Machine Learning**
